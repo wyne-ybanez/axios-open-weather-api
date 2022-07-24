@@ -8,6 +8,7 @@ const about = require("./controllers/about.js");
 
 router.get("/", dashboard.index);
 router.get("/dashboard", dashboard.index);
+router.post("/dashboard/addreport", dashboard.addreport);
 router.get("/about", about.index);
 
 module.exports = router;
