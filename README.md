@@ -1,7 +1,10 @@
-Welcome to the Glitch Template
-==============================
+# Open Weather API calls 
 
-A starter project for learning Glitch.
+For this project, the api is called but the results are shown through the console.
 
-This is an Express.js project, designed to work well with the Glitch development environment. It includes basic express setup, templating, routing, JSON based model and session support.
+Requirements: 
+- npm init 
+- npm install axios 
+- npm run start 
 
+Ensure your terminal is open. Submit a valid latitude and longitude. Check your terminal for results.
