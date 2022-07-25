@@ -7,4 +7,4 @@ Requirements:
 - npm install axios 
 - npm run start 
 
-Ensure your terminal is open. Submit a valid latitude and longitude. Check your terminal for results.
+Ensure your terminal is open. Submit a valid latitude and longitude. Check your terminal for results
